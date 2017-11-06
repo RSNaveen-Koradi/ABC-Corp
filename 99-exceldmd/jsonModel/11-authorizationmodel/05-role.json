@@ -1,0 +1,21 @@
+{
+    "metaInfo": {
+        "dataIndex": "entityModel",
+        "collectionName": "entityModels",
+        "responseObjectName": "entityModelOperationResponse"
+    },
+    "entityModels": [{
+            "id": "admin_role",
+            "name": "admin",
+            "type": "role",
+            "properties": {
+                "description": "the system administrator with complete authorization of the system"
+            }
+        },{
+            "id": "vendor_role",
+            "name": "vendor",
+            "type": "role",
+            "properties": {
+                "description": ""
+            }
+        }]}
